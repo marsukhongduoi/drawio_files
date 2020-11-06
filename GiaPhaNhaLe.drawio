@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T17:19:27.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="VjxU-z7Q9Hbc55F8H57F" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T17:20:24.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="cjQo-PmRJRwe_2AJrssm" version="13.9.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="4123.5" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3175.5" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-97" value="Lê Thị Mây&lt;br&gt;1931&amp;nbsp;- 17/02/2016 (10/01/2016 AL)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-98" value="Chị Hai&lt;br&gt;1953" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-98" value="Chị Hai&lt;br&gt;1953 -&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-400" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-99" edge="1">
@@ -226,7 +226,7 @@
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-140" target="FEyVmN1Ai5-Nq4Hq8LTz-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-140" value="Phạm Thị Miếng 1908 - 26/06/1964 AL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-140" value="Phạm Thị Miếng &lt;br&gt;1908 - 26/06/1964 AL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1470" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-141" target="FEyVmN1Ai5-Nq4Hq8LTz-172" edge="1">
