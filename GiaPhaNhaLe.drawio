@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T17:18:27.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="JuX4DYzbCM6PqNkDQfDk" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T17:19:27.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="VjxU-z7Q9Hbc55F8H57F" version="13.9.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="4597.5" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4123.5" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,7 +438,7 @@
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-219" target="FEyVmN1Ai5-Nq4Hq8LTz-211" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-219" value="Hai Cu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-219" value="Hai Cu (Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3040" y="370" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-220" edge="1">
@@ -446,7 +446,7 @@
             <mxPoint x="3100" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-220" value="Ba Nga" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-220" value="Ba Nga&lt;br&gt;(Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="3110" y="370" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-224" target="FEyVmN1Ai5-Nq4Hq8LTz-212" edge="1">
@@ -464,16 +464,16 @@
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-226" target="FEyVmN1Ai5-Nq4Hq8LTz-212" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-226" value="Lâm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-226" value="Lâm&lt;br&gt;(Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3290" y="370" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-227" value="Hai Dũng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-227" value="Hai Dũng&lt;br&gt;(Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3360" y="370" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-228" target="FEyVmN1Ai5-Nq4Hq8LTz-213" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-228" value="Ba Bé" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-228" value="Ba Bé&lt;br&gt;(Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="3430" y="370" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-238" value="Hồ Văn Sang&lt;br&gt;1945" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
