@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T08:59:45.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="4YRjprhs--PqqFjFeign" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T09:05:06.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="IopJ29QRXICgq4KcqazM" version="13.9.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="3426.5" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5308.5" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,16 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-75" value="Phạm Văn Khuê&lt;br&gt;1898 - 16/03 AL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="-880" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-76" target="FEyVmN1Ai5-Nq4Hq8LTz-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-76" value="Hà Thị Thẩu&lt;br&gt;1900 - 28/06 AL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="-740" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-75" target="FEyVmN1Ai5-Nq4Hq8LTz-76" edge="1">
-          <mxGeometry x="-50" y="160" as="geometry" />
+          <mxGeometry x="-870" y="160" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-79" target="FEyVmN1Ai5-Nq4Hq8LTz-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-94" value="Phạm Văn Đức&lt;br&gt;- 1951" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-880" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-96" target="FEyVmN1Ai5-Nq4Hq8LTz-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,19 +92,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-96" value="Phạm Văn Lấy&lt;br&gt;1928 -&amp;nbsp;13/02/1974 AL&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="-750" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-97" target="FEyVmN1Ai5-Nq4Hq8LTz-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-97" value="Lê Thị Mây&lt;br&gt;1931&amp;nbsp;- 17/02/2016 (10/01/2016 AL)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-690" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-610" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-98" value="Chị Hai&lt;br&gt;1953 -&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-825" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-745" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-99" value="Lê Văn Xem&lt;br&gt;1955 - 23/03/1978 AL&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-690" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-610" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5M_Gi-6bJ1FGQ-nQun3S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-100" target="5M_Gi-6bJ1FGQ-nQun3S-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,44 +115,44 @@
         <mxCell id="5M_Gi-6bJ1FGQ-nQun3S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-100" target="FEyVmN1Ai5-Nq4Hq8LTz-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-500" y="300" />
-              <mxPoint x="-765" y="300" />
+              <mxPoint x="-420" y="300" />
+              <mxPoint x="-685" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-100" value="Lê Văn Hây &lt;br&gt;Lê Văn Cắt (Tư Hây)&lt;br&gt;15/06/1957" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="-480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-369.9655172413793" y="300.0000000000001" as="targetPoint" />
+            <mxPoint x="-289.9655172413793" y="300.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-101" value="Lê Thị Gái&lt;br&gt;1959" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-390" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-240" y="300" as="targetPoint" />
+            <mxPoint x="-160" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-102" value="Lê Văn Cắt &lt;br&gt;Lê Văn Hây - (Sáu Cắt)&lt;br&gt;1962 - 16/03 AL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="320" width="150" height="40" as="geometry" />
+          <mxGeometry x="-250" y="320" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-103" value="Lê Thị Nhỏ&lt;br&gt;1970" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-90" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-65" target="FEyVmN1Ai5-Nq4Hq8LTz-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-110" value="Dung (Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="320" width="100" height="40" as="geometry" />
+          <mxGeometry x="-870" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-112" target="FEyVmN1Ai5-Nq4Hq8LTz-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-112" value="Chị Hai" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="240" width="110" height="40" as="geometry" />
+          <mxGeometry x="-480" y="240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FEyVmN1Ai5-Nq4Hq8LTz-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FEyVmN1Ai5-Nq4Hq8LTz-114" target="FEyVmN1Ai5-Nq4Hq8LTz-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -576,13 +576,13 @@
           <mxGeometry x="3150" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5M_Gi-6bJ1FGQ-nQun3S-18" value="Lê Thị Thùy Trang&lt;br&gt;1986" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="-560" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5M_Gi-6bJ1FGQ-nQun3S-19" target="YrNiRQKs1FVzIm-ZbRC9-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5M_Gi-6bJ1FGQ-nQun3S-19" value="Lê Thị Thanh Nhã&lt;br&gt;1991" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="-400" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-16" value="Trang (Con nuôi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2380" y="480" width="40" height="40" as="geometry" />
@@ -720,7 +720,7 @@
           <mxGeometry x="2780.5" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-70" value="Trần Lê Quỳnh Như&amp;nbsp;&lt;br&gt;2014" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-785" y="560" width="130" height="40" as="geometry" />
+          <mxGeometry x="-705" y="560" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YrNiRQKs1FVzIm-ZbRC9-71" target="5M_Gi-6bJ1FGQ-nQun3S-18">
           <mxGeometry relative="1" as="geometry" />
@@ -729,10 +729,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-71" value="Trần Chí Trung&lt;br&gt;1985" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="-700" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-72" value="Nguyễn Ngọc Quốc Dũng&lt;br&gt;1989" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="480" width="150" height="40" as="geometry" />
+          <mxGeometry x="-260" y="480" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
