@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T08:01:23.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="R6zo4_8ryd5ccnSzLeJ6" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T08:02:01.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ZHESuIpIPaIluRdstNkc" version="13.9.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="3175.5" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -719,8 +719,8 @@
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-69" value="Quỳnh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2790.5" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YrNiRQKs1FVzIm-ZbRC9-70" value="Nguyễn Lê Quỳnh Như&amp;nbsp;&lt;br&gt;2014" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="560" width="140" height="40" as="geometry" />
+        <mxCell id="YrNiRQKs1FVzIm-ZbRC9-70" value="Trần Lê Quỳnh Như&amp;nbsp;&lt;br&gt;2014" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="560" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrNiRQKs1FVzIm-ZbRC9-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YrNiRQKs1FVzIm-ZbRC9-71" target="5M_Gi-6bJ1FGQ-nQun3S-18">
           <mxGeometry relative="1" as="geometry" />
