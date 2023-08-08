@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T09:58:28.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="YSvgzP2R7n4z2SZEPZg9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T10:07:47.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NNfuKX-zALv5y0qZ6bP1" version="21.6.6" type="github">
   <diagram name="Page-1" id="hQDsr8yHzHp7YDMijiZv">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-3" value="&lt;ul&gt;&lt;li&gt;Sync flag&lt;/li&gt;&lt;li&gt;Timestamp of latest TX Tick event (TX_Tick)&lt;/li&gt;&lt;li&gt;Counter from latest tick event to when ANT+ packet is sent (TX_Offset)&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="285" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-4" value="ANT+ Synchronization packet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="95" y="101.25" width="175" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-10" value="RX Device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;horizontal=1;verticalAlign=top;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="240" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ix4d9zbyJIfSVLDZEfA-5" target="0ix4d9zbyJIfSVLDZEfA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-5" value="Received SYNC packet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ix4d9zbyJIfSVLDZEfA-6" target="0ix4d9zbyJIfSVLDZEfA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-6" value="&lt;ul&gt;&lt;li&gt;Calculate the Real TX time (Real_TX=TX_Tick+TX_Offset)&lt;/li&gt;&lt;li&gt;Get RX tick when receive sync packet (RX_Recv)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="155" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix4d9zbyJIfSVLDZEfA-8" value="Drift = Absolute(RealTX-RX_Recv)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="200" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
