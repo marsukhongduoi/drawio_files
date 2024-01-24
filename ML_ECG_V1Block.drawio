@@ -1,9 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T09:48:35.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="om602Lk9fDBltrb54oqp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T10:03:34.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_kZxY0OqXV81sQA-14UB" version="22.1.18" type="github">
   <diagram name="Page-1" id="mY4Nihmnje_g2OFmJHn6">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ss2ToEpISazo3nwYeemP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-1" target="Ss2ToEpISazo3nwYeemP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-1" value="Device Reset (By push button 6 seconds or USB C plug/unplug&lt;br&gt;Device Code: &lt;b&gt;GOOD_NOT_START&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-4" target="Ss2ToEpISazo3nwYeemP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-4" value="Device Initialization &amp;amp; Precheck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-5" value="Bluetooth stack" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ss2ToEpISazo3nwYeemP-4">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-6" value="Sensors init &amp;amp; read device ID for testing SPI communication" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ss2ToEpISazo3nwYeemP-4">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-7" value="Check SD Card&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ss2ToEpISazo3nwYeemP-4">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-10" target="Ss2ToEpISazo3nwYeemP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-10" target="Ss2ToEpISazo3nwYeemP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-10" value="SD card works" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-13" target="Ss2ToEpISazo3nwYeemP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-13" value="Disable all function, turn on RED LED&lt;br&gt;Device Code:&amp;nbsp;&lt;br&gt;&lt;b&gt;SD_CARD_FAILED&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-16" value="Uninit SD card, go to sleep state&lt;br&gt;Device Code:&lt;br&gt;&lt;b&gt;GOOD_NOT_START&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-19" value="User Connect + start measurement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-21" target="Ss2ToEpISazo3nwYeemP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-21" target="Ss2ToEpISazo3nwYeemP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-21" target="Ss2ToEpISazo3nwYeemP-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-21" value="Init sensor + start measurement + log data&lt;br&gt;Device Code:&lt;br&gt;&lt;b&gt;GOOD_STARTED&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-26" target="Ss2ToEpISazo3nwYeemP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-26" value="Battery lower than 3.7V&lt;br&gt;Device Code:&lt;br&gt;&lt;b&gt;BATTERY&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-28" target="Ss2ToEpISazo3nwYeemP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-28" value="SD Card failed&lt;br&gt;3.7V&lt;br&gt;Device Code:&lt;br&gt;&lt;b&gt;BATTERY&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-35" target="Ss2ToEpISazo3nwYeemP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-35" value="Stop measurement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="480" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-40" value="Battery level send through Beacon mode once per minute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519.9999999999998" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-51" value="User control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1100.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-54" value="Livestream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-55" target="Ss2ToEpISazo3nwYeemP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1030" />
+              <mxPoint x="600" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-55" value="Stop measurement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ss2ToEpISazo3nwYeemP-57" target="Ss2ToEpISazo3nwYeemP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ss2ToEpISazo3nwYeemP-57" value="Send data through BLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
