@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T11:56:19.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="o3q0iH89568p90U-N7nM" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T13:34:00.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MvJiVh97Z39sK2vTmvFV" version="24.0.7" type="github">
   <diagram name="Page-1" id="cWuuQYQZYm9ZWQwMvc-e">
-    <mxGraphModel dx="2514" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
             <mxPoint x="690" y="680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="130" />
-              <mxPoint x="720" y="710" />
+              <mxPoint x="720" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -193,41 +193,41 @@
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-66" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="640" as="sourcePoint" />
+            <mxPoint x="880" y="620" as="sourcePoint" />
             <mxPoint x="880" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JCuNfdr7_ttBMO_Hbykj-67" target="JCuNfdr7_ttBMO_Hbykj-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="760" />
+              <mxPoint x="480" y="740" />
               <mxPoint x="480" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-67" value="Slave #n" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="760" y="660" width="240" height="200" as="geometry" />
+          <mxGeometry x="760" y="640" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-68" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="895" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="895" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-69" value="Radio &amp;amp; Antenna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="895" y="750" width="80" height="40" as="geometry" />
+          <mxGeometry x="895" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-70" value="Sensors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="895" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="895" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-71" value="Internal clock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="785" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-72" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="750" width="80" height="40" as="geometry" />
+          <mxGeometry x="785" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-73" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="785" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-75" value="ACK packet #2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="735" width="160" height="90" as="geometry" />
+          <mxGeometry x="520" y="710" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JCuNfdr7_ttBMO_Hbykj-76" value="Broadcast, include unique ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JCuNfdr7_ttBMO_Hbykj-75">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
