@@ -119,7 +119,7 @@
           <mxGeometry y="74" width="280" height="86" as="geometry" />
         </mxCell>
         <mxCell id="JCj6mYnm0wrspUGSUb6V-203" value="PPG Green Data Struct" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="750" width="280" height="98" as="geometry" />
+          <mxGeometry x="-360" y="720" width="280" height="98" as="geometry" />
         </mxCell>
         <mxCell id="JCj6mYnm0wrspUGSUb6V-204" value="+ TimeStamp: uint32_t" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JCj6mYnm0wrspUGSUb6V-203">
           <mxGeometry y="26" width="280" height="24" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry y="74" width="280" height="24" as="geometry" />
         </mxCell>
         <mxCell id="JCj6mYnm0wrspUGSUb6V-207" value="PPG Red/IR Data Struct" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="900" width="280" height="120" as="geometry" />
+          <mxGeometry x="-360" y="840" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JCj6mYnm0wrspUGSUb6V-208" value="+ TimeStamp: uint32_t" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;imageWidth=24;imageHeight=24;arcSize=12;" vertex="1" parent="JCj6mYnm0wrspUGSUb6V-207">
           <mxGeometry y="26" width="280" height="24" as="geometry" />
