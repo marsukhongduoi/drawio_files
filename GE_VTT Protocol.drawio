@@ -8,7 +8,7 @@
           <mxGeometry x="-70" y="40" width="390" height="340" as="geometry" />
         </mxCell>
         <mxCell id="0Z28K1uZ04GMZeIwGt2u-3" value="MODE 2 - GE Board connect AFE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="390" height="340" as="geometry" />
+          <mxGeometry x="360" y="40" width="390" height="340" as="geometry" />
         </mxCell>
         <mxCell id="0Z28K1uZ04GMZeIwGt2u-168" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-40" y="100" width="340" height="188" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="-40" y="300" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0Z28K1uZ04GMZeIwGt2u-249" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="100" width="340" height="235" as="geometry" />
+          <mxGeometry x="385" y="100" width="340" height="235" as="geometry" />
         </mxCell>
         <mxCell id="0Z28K1uZ04GMZeIwGt2u-250" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="0Z28K1uZ04GMZeIwGt2u-249">
           <mxGeometry width="340" height="47" as="geometry" />
