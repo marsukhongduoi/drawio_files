@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.5.0">
   <diagram name="Page-1" id="iVwxQpiHSR4tFvQajVaU">
-    <mxGraphModel>
+    <mxGraphModel dx="925" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2qaFz5a6X9c5srposEM_-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TX Settings&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BROADCAST_CHANNEL_NUMBER&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;CHANNEL_TYPE_MASTER,&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RF_FREQ 66,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;CHAN_ID_TRANS_TYPE 3,&lt;/p&gt;&lt;p&gt;CHAN_ID_DEV_TYPE 3,&lt;/p&gt;&lt;p&gt;CHAN_ID_DEV_NUM 3,&lt;/p&gt;&lt;p&gt;CHAN_PERIOD 32768,&lt;/p&gt;&lt;p&gt;ANT_NETWORK_NUM 0,&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="260" width="220" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ANT Protocol" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Main page" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-8" edge="1" parent="1" source="2qaFz5a6X9c5srposEM_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="2qaFz5a6X9c5srposEM_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="RTC" vertex="1">
+          <mxGeometry height="80" width="80" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Timer" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-9" edge="1" parent="1" source="2qaFz5a6X9c5srposEM_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="2qaFz5a6X9c5srposEM_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="PPI" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-11" edge="1" parent="1" source="2qaFz5a6X9c5srposEM_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="2qaFz5a6X9c5srposEM_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFz5a6X9c5srposEM_-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="RTC" vertex="1">
+          <mxGeometry height="80" width="80" x="930" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
